@@ -36,7 +36,7 @@ class sideNav extends Component {
         </nav>
         <nav className="bottomnav">
           <IconContext.Provider value={{ className: "icons2" }}>
-            <a href="https://www.linkedin.com/in/ramal-imanov-0b540018b/" target="_blank" style={{ outline: 'none' }}><FiLinkedin></FiLinkedin></a>
+            <a href="https://www.linkedin.com/in/ramal-imanov-0b540018b/" target="_blank" style={{ outline: 'none' }}><FiLinkedin/></a>
             <a href="https://github.com/ramalimanov" target="_blank" style={{ outline: 'none' }}><FiGithub /></a>
             <a href="https://www.facebook.com/Ramal.I/" target="_blank" style={{ outline: 'none' }}><FiFacebook /></a>
           </IconContext.Provider>
